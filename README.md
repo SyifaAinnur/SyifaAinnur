@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Dart, Framework Flutter,React Native and can use CSS,JavaScript 
+- 🌱 I’m currently learning Dart, Framework Flutter,React Native and can use CSS,JavaScript,PHP Native 
 - ⚡ Fun fact: Happy Person
 
 
