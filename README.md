@@ -9,6 +9,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&langs_count=6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ ?username=SyifaAinnur&layout=compact )](https://github.com/anuraghazra/github-readme- statistik)
 
 
