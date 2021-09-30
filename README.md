@@ -12,5 +12,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&langs_count=6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![snake gif](https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SyifaAinnur&theme=radical/SyifaAinnur/blob/output/github-contribution-grid-snake.gif)
 
