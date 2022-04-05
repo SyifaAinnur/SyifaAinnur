@@ -18,10 +18,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SyifaAinnur&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
 </p>
 
-<!-- ## CODING ACTIVITY
+## CODING ACTIVITY
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
-</p> -->
+</p>
 
 # Heyy !! Look i have snake
 
