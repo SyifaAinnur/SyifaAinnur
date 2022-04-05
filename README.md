@@ -6,10 +6,22 @@
 - ⚡ Fun fact: Happy Person
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## GITHUB STATS 📈
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=SyifaAinnur&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaAinnur&langs_count=6&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## GITHUB PROFILE TROPHY 🏆
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=SyifaAinnur&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
+
+<!-- ## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
+</p> -->
 
 # Heyy !! Look i have snake
 
