@@ -30,6 +30,7 @@
 
 
 ## CODING ACTIVITY 👨🏻‍💻
+[![wakatime](https://wakatime.com/badge/user/fe54cec6-cb75-4d5a-95a9-26fa2c396803.svg)](https://wakatime.com/@fe54cec6-cb75-4d5a-95a9-26fa2c396803)
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SyifaAinnur&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
 </p>
