@@ -18,7 +18,11 @@
 <br/>
 <br/>
 <br/>
+<br/>                                                                                          
+                                                                                
+ <h1 align="center">📛 Holopin Badges 🔰</h1>
 
+[![@syifaainnur's Holopin board](https://holopin.me/syifaainnur)](https://holopin.io/@syifaainnur)
 ## GITHUB STATS 📈
 <p>
   <tr>
